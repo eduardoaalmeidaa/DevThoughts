@@ -50,7 +50,9 @@ O Site Dev Thoughts é perfeito para registrar e compartilhar seus pensamentos e
 - git clone https://github.com/seu-usuario/dev-thoughts.git
 
 ### 2. Instale as Dependências
-- cd dev-thoughts npm install
+- cd dev-thoughts
+- npm install
+- npm install -g @angular/cli
 
 ### 3. Execute o Servidor de Desenvolvimento
 - ng serve
