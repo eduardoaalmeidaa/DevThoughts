@@ -47,6 +47,3 @@ O Site Dev Thoughts é perfeito para registrar e compartilhar seus pensamentos e
 
 
 
-
-
-
