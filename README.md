@@ -45,22 +45,6 @@ O Site Dev Thoughts é perfeito para registrar e compartilhar seus pensamentos e
 ![image](https://github.com/eduardoaalmeidaa/DevThoughts/assets/89856553/fd2969c9-d592-4a53-8a5c-b6270badf92f)
 ![image](https://github.com/eduardoaalmeidaa/DevThoughts/assets/89856553/576ce52e-994e-4ff5-80b5-b1ff5799b927)
 
-## Como Executar o Projeto
-### 1. Clone o Repositório
-- git clone https://github.com/seu-usuario/dev-thoughts.git
-
-### 2. Instale as Dependências
-- cd dev-thoughts
-- npm install
-- npm install -g @angular/cli
-
-### 3. Execute o Servidor de Desenvolvimento
-- ng serve
-
-### 4. Acesse o Projeto no Navegador
-- Abra o navegador e acesse http://localhost:4200.
-
-
 
 
 
